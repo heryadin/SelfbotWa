@@ -2,7 +2,7 @@
   "name": "Seflbot",
   "version": "4.0.0",
   "description": "Termux only",
-  "main": "vanz.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
@@ -35,6 +35,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Mhanbarbar",
-  "homepage": "selfbot"
+  "author": "Rafizqi",
+  "homepage": "https://github.com/Rafizqi/SelfbotWa/blob/main/README.md"
 }
