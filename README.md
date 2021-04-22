@@ -106,6 +106,7 @@ Edit the required value in [`setting.json`](https://github.com/Rafizqi/SelfboWa/
 * <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/Arya%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=blue"/></a>
 * <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=red"/></a>
 * <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/Ivanzz%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=yellow"/></a>
-* <a href="https://github.com/Aqul"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=green"/></a>
+* <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/Aqul%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=green"/></a>
+
 ### contact me
 <a href="https://wa.me/6285841959635"><img alt="WhatsApp" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue"/></a>
