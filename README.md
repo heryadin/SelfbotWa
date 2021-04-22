@@ -26,7 +26,8 @@
 * [`LoL Human`](https://api.lolhuman.xyz/pricing)
 * [`Zeks`](https://api.zeks.xyz)‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
 ```
-## ✍️ SETTINGS
+# SETTINGS
+```
 {
     "name": "@Rafisqi", 
     "prefix": "z",
