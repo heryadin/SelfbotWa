@@ -11,39 +11,46 @@
     
 ## ⏳ Cara Install :
 ```bash
-> git clone https://github.com/
+> git clone https://github.com/Rafizqi/SelfbotWa.git
 > cd 
 > bash install.sh
+> Scan qr nya deh
 ```
+
 ## ✅ Cara aktifin :
 ```bash
-> cd SELFBOT
+> cd SelfbotWa
 > npm start
-> scan qr
 ```
-# 🔥 Apikey?
+##  ❌ Cara matiin :
+```
+CTRL + C
+atau
+CTRL + Z
+```
+# 🔥🔑 Apikey?
 * [`Imgbb-Uploader`](https://api.imgbb.com)
 * [`LoL Human`](https://api.lolhuman.xyz/pricing)
 * [`Zeks`](https://api.zeks.xyz)‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎
-```
-# SETTINGS
-```
+## ✍️ Editing the file
+Edit the required value in [`setting.json`](https://github.com/Rafizqi/SelfboWa/blob/main/setting.json)
+```json
 {
-    "name": "@Rafisqi", 
+    "name": "@Rafizqi", 
     "prefix": "z",
     "lol": "apikey",
     "zeks": "apikey",
     "imgbb_key":  "apikey",
     "fake": "SELFBOT",
-    "harga_toko": "999999999",
+    "harga_toko": "99999999",
     "ucapan_welcome": "Welcome",
     "ucapan_leave": "Good Bye",
-    "author": "@Rafizqi_",
-    "package_name": "Mastah"
+    "author": "Rafizqi",
+    "package_name": "Stah"
 }
 ```
 
-## Feature Bot
+## Feature
 
 | FEATURE |✅|
 | ------------- | ------------- |
@@ -99,7 +106,6 @@
 * <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/Arya%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=blue"/></a>
 * <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=red"/></a>
 * <a href="https://github.com"><img alt="GitHub" src="https://img.shields.io/badge/Ivanzz%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=yellow"/></a>
+* <a href="https://github.com/Aqul"><img alt="GitHub" src="https://img.shields.io/badge/MrG3P5%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=green"/></a>
 ### contact me
 <a href="https://wa.me/6285841959635"><img alt="WhatsApp" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue"/></a>
-
-
